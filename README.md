@@ -20,7 +20,7 @@ To complete the project, you will need to complete code in a few sections of the
 
 In **server.js**, you will see some boilerplate code, but the server is missing key functionality to allow it to run. You must:
 
-- Set up body-parsing middleware with the `body-parser` packagae.
+- Set up body-parsing middleware with the `body-parser` package.
 - Set up CORS middleware with the `cors` package. You can use the default settings.
 - Mount the existing `apiRouter` at `/api`. This router will serve as the starting point for all your API routes.
 - Start the server listening on the provided `PORT`. Make sure to use the `PORT` constant and not a hard-coded number, as this is required for tests to run.
