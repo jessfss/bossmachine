@@ -1,5 +1,7 @@
 # Boss Machine
 
+Note: I worked mainly on server.js and api.js. I used [Insomnia](https://insomnia.rest/features/api-testing) to test all the routes (it works similarly to Postman). I did not work on bonus steps. If you are going to try to follow this project by downloading the folder from codecademy, you will encounter an error when you first try to run it. To solve it, go to package.json and update the redux version. From there, everything should work as described.
+
 ## Project Overview
 
 In this project, you will create an entire API to serve information to a Boss Machine, a unique management application for today's most accomplished (evil) entrepreneurs. You will create routes to manage your 'minions', your brilliant 'million dollar ideas', and to handle all the annoying meetings that keep getting added to your busy schedule.
